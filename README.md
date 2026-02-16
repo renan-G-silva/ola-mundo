@@ -1,3 +1,5 @@
 # olá-mundo
 
-conhecendo git
+conhecendo git e githut
+
+mudancas para conhecer merlhor
